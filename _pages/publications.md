@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Intelligent Systems Laboratory - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Intelligent Systems Laboratory &rarr; LU.SE"
 sitemap: false
 permalink: /publications/
 ---

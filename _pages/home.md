@@ -1,7 +1,7 @@
 ---
 title: "Intelligent Systems Laboratory - Home"
 layout: homelay
-excerpt: "Intelligent Systems Laboratory &rarr; LU.SE."
+excerpt: "Intelligent Systems Laboratory &rarr; LU.SE"
 sitemap: false
 permalink: /
 ---
