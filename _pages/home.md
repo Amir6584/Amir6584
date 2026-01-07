@@ -6,12 +6,57 @@ sitemap: false
 permalink: /
 ---
 
+<html lang="en">
+<body>
 
-We are a dynamic research group at [LMU physics](https://www.physik.lmu.de/en/index.html) and at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl/). 
+<style>
+  .justified-text {
+    text-align: justify; /* Justify the text */
+    margin-bottom: 20px;  /* Adds a gap below the text */
+    margin-top: 50px;  /* Adds a gap above the text */
+  }
+</style>
 
-We have two overarching goals: first, 
-**to understand quantum materials**, including strange metals, high-temperature superconductors, and quantum critical electron matter. Second, **to make novel and useful materials** that never existed before, like possible room-temperature superconductors. 
-To achieve these goals, we develop new quantum sensing and quantum imaging instrumentation to obtain the key quantum mechanical degrees of freedom. We want to build the perfect instruments to answer the scientific questions we deem most important. 
+<div class="row justified-text">
+We welcome you to the Intelligent Systems Laboratory (INTELLIGENTiSTs) at the Department of Electrical and Information Technology (EIT) of Lund University, Sweden. We conduct research on intelligent systems and machine learning with systems perspective in several domains, including autonomous systems, Internet of Things (IoT), medical informatics, mobile health and wearable technologies. We work with intelligent systems and study (artificial) intelligence, hence we refer to our members and laboratory as INTELLIGENTiSTs™ (just like "scientists"). Below is a snippet of our recent research activities in the TinyML community for mobile medical systems in the Internet of Things (IoT) domain.
+</div>
+
+
+
+<style>
+
+        /* Flexbox for centering */
+        .video-container {
+            display: flex;
+            justify-content: center; /* Centers horizontally */
+            align-items: center;     /* Centers vertically */
+            height: 100vh;           /* Full viewport height */
+            margin: 0;               /* Remove default margin */
+        }
+
+        iframe {
+            display: block; /* Removes any space below the iframe */
+            margin: 0;               /* Remove default margin */
+        }
+
+</style>
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RFhVcD9jR9E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+</body>
+</html>
+
+<style>
+  #carousel {
+    width: 80%; /* Adjust this percentage to control the width */
+    max-width: 1200px; /* Optional: limit the maximum width */
+    margin: 0 auto; /* Centers the carousel horizontally */
+    margin-bottom: 20px;  /* Adds a gap below the text */
+  }
+</style>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -57,18 +102,3 @@ To achieve these goals, we develop new quantum sensing and quantum imaging instr
 </div>
 
 
-We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).
-
-**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
-
-
-
-
-
-<figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LMU_logo.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Tschira.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SuperC_logo.png" style="width: 100px">
-</figure>
