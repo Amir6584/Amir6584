@@ -25,7 +25,7 @@
   year: '2025'
   highlight: 1
   image: eGlass2.png
-  description:  In this work, we present e-Glass, a state-of-the-art smart wearable device that enables unobtrusive real-time electroencephalography (EEG) monitoring.  
+  description:  In this work, we present e-Glass, a state-of-the-art smart wearable device that enables unobtrusive real-time electroencephalography (EEG) monitoring. Moreover, we present a lightweight edge-ML scheme tailored for e-Glass, which has limited resources (compute, memory, and energy). 
   link:
     url: https://www.nature.com/articles/s41598-025-29893-4
     display: Scientific Reports (2025)
