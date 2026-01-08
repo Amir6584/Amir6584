@@ -112,7 +112,7 @@ permalink: /team/
 {% endif %}
 
 
-
+<div style="height: 30px;"></div>
 
 # Alumni and Former Members/Students
 {% assign number_printed = 0 %}
