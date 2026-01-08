@@ -77,8 +77,8 @@ permalink: /contact/
 
 
       <p>
-        <strong>Email Address:</strong><br>
-        amir.aminifar@eit.lth.se
+        <strong>Email Address (remove ".bottrap"):</strong><br>
+        amir.aminifar.bottrap@eit.lth.se
       </p>
     </div>
 
