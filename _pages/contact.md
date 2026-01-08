@@ -7,6 +7,7 @@ permalink: /contact/
 ---
 # Contact Information
 
+<div style="height: 30px;"></div>
 
 <html lang="en">
 <head>

@@ -6,6 +6,8 @@ sitemap: false
 permalink: /
 ---
 
+<div style="height: 50px;"></div>
+
 <html lang="en">
 <body>
 
@@ -13,7 +15,6 @@ permalink: /
   .justified-text {
     text-align: justify; /* Justify the text */
     margin-bottom: 50px;  /* Adds a gap below the text */
-    margin-top: 50px;  /* Adds a gap above the text */
   }
 </style>
 

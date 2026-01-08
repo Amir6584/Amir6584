@@ -8,6 +8,7 @@ permalink: /publications/
 
 
 # Publications
+<div style="height: 30px;"></div>
 
 ## Group highlights
 
