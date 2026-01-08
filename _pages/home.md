@@ -32,7 +32,6 @@ We welcome you to the Intelligent Systems Laboratory (INTELLIGENTiSTs) at the De
             justify-content: center; /* Centers horizontally */
             align-items: center;     /* Centers vertically */
             margin: 0;               /* Remove default margin */
-            margin-bottom: 50px;  /* Adds a gap below the text */
         }
 
         iframe {
