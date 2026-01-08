@@ -72,7 +72,7 @@ permalink: /publications/
 </div>
 
 
-
+<div style="height: 30px;"></div>
 
 ## Full List of Publications
 <style>
