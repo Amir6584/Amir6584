@@ -84,6 +84,12 @@
   title: Privacy-Preserving Edge Federated Learning for Intelligent Mobile-Health
     Systems
   year: '2024'
+  highlight: 1
+  image: FL.png
+  description:  In this work, we propose a privacy-preserving edge federated learning framework for resource-constrained mobile-health over the Internet of Things (IoT) infrastructure. Our framework guarantees that the partial contribution of each patient during the learning process remains private, by adopting Secure Multiparty Computation (SMC) techniques. 
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0167739X24003972
+    display: Future Generation Computer Systems (2024)
 - ENTRYTYPE: article
   ID: huang2024energy
   author: Huang, Baichuan and Abtahi, Azra and Aminifar, Amir
