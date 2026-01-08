@@ -5,7 +5,7 @@
   title: 'TinyFoA: Memory Efficient Forward-Only Algorithm for On-Device Learning'
   year: '2025'
   highlight: 1
-  image: GAS.png
+  image: TinyFoA.png
   description:  In this paper, we propose a memory-efficient forward-only algorithm called TinyFoA, to reduce dynamic memory overhead in the training process. Our TinyFoA optimizes the memory efficiency not only by layer-wise training but also by partially updating each layer, as well as by binarizing the weights and the activations. 
   link:
     url: https://ojs.aaai.org/index.php/AAAI/article/view/33910
@@ -24,7 +24,7 @@
   title: EEG Glasses for Real-Time Brain Electrical Activity Monitoring
   year: '2025'
   highlight: 1
-  image: eGlass.png
+  image: eGlass2.png
   description:  In this work, we present e-Glass, a state-of-the-art smart wearable device that enables unobtrusive real-time electroencephalography (EEG) monitoring.  
   link:
     url: https://www.nature.com/articles/s41598-025-29893-4
@@ -63,7 +63,7 @@
   title: 'VNN: Verification-Friendly Neural Networks with Hard Robustness Guarantees'
   year: '2024'
   highlight: 1
-  image: GAS.png
+  image: VNN.png
   description:  In this paper, we introduce a post-training framework to create Verification-Friendly Neural Networks (VNNs) that are easier for formal verification tools to analyze, allowing for provable robustness guarantees, while maintaining accuracy comparable to standard Deep Neural Networks (DNNs). 
   link:
     url: https://proceedings.mlr.press/v235/baninajjar24a.html

@@ -53,14 +53,17 @@ permalink: /publications/
 
 
 ## Patents
-<em>    Amir AMINIFAR, Dionisije SOPIC, David ATIENZA, Renato ZANETTI</em><br />Wearable System for Real-Time Detection of Epileptic Seizures<br /> EP3755219B1/US12419566B2 (2025)
+<div>
+  <em>Amir AMINIFAR, Dionisije SOPIC, David ATIENZA, Renato ZANETTI</em><br />
+  Wearable System for Real-Time Detection of Epileptic Seizures<br />
+  EP3755219B1/US12419566B2 (2025)
+</div>
 
 
 
 
 ## Full List of Publications
-
-
+<div>
 {% assign sorted_publist = site.data.publist | sort: 'year' %}
 {% assign sorted_publist = sorted_publist | reverse %}
 
@@ -71,4 +74,4 @@ permalink: /publications/
     {{ publi.title }}, {{ publi.author }}, {{ publi.journal }}, {{ publi.year }}.
   {% endif %}
 {% endfor %}
-
+</div>
