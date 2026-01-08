@@ -23,6 +23,16 @@ permalink: /publications/
 <div class="row">
 {% endif %}
 
+<style>
+/* Make team member images round */
+.col-sm-6 img {
+  border-radius: 50%;     /* Makes the image round */
+  width: 150px;           /* Set width for the images */
+  height: 150px;          /* Set height equal to width for circular effect */
+  object-fit: contain;      /* Ensures the image fills the circle */
+}
+</style>
+
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
