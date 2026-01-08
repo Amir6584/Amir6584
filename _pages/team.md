@@ -90,7 +90,7 @@ permalink: /team/
 
 
 
-# Alumni and Former Students
+# Alumni and Former Members/Students
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
 
