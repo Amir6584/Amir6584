@@ -1,5 +1,5 @@
 - name: Azra Abtahi
-  photo: Azra2_bw.png
+  photo: Azra2_bw.avif
   duration: 
   info: Postdoctoral Fellow (moved to Malmö University as an Assistant Professor)
   email: b
@@ -7,7 +7,7 @@
   education1: 
 
 - name: Alberto Gascón Roche
-  photo: Alberto1_bw.png
+  photo: Alberto1_bw.avif
   info: Visiting Ph.D. student
   duration: 
   email: b
@@ -16,7 +16,7 @@
 
 
 - name: Yuwei Fan
-  photo: Yuwei1_bw_2.jpg
+  photo: Yuwei1_bw_2.avif
   info: Visiting Ph.D. student
   duration: 
   email: b
@@ -24,7 +24,7 @@
   education1: 
 
 - name: Marie Colineaux
-  photo: Marie1_bw.png
+  photo: Marie1_bw.avif
   info: Project Assistant
   duration: 
   email: b
@@ -32,7 +32,7 @@
   education1: 
   
 - name: Kevin Duval
-  photo: avatar.png
+  photo: avatar.avif
   info: Erasmus Student
   duration: 
   email: b
@@ -40,7 +40,7 @@
   education1: 
 
 - name: Manon Joblin
-  photo: avatar.png
+  photo: avatar.avif
   info: Erasmus Student
   duration: 
   email: b
@@ -48,7 +48,7 @@
   education1: 
   
 - name: Robbe Vlaeminck
-  photo: avatar.png
+  photo: avatar.avif
   info: Erasmus Student
   duration: 
   email: b
@@ -56,7 +56,7 @@
   education1: 
 
 - name: Joran Verheijen
-  photo: avatar.png
+  photo: avatar.avif
   info: Erasmus Student
   duration: 
   email: b
@@ -65,7 +65,7 @@
   
 
 - name: Neha Mishra
-  photo: avatar.png
+  photo: avatar.avif
   info: M.Sc. student at Axis Communications
   duration: 
   email: b
@@ -73,7 +73,7 @@
   education1: 
 
 - name: Emil Friberg
-  photo: avatar.png
+  photo: avatar.avif
   info: M.Sc. student at Axis Communications
   duration: 
   email: b
@@ -81,7 +81,7 @@
   education1: 
   
 - name: Viktor Ols
-  photo: avatar.png
+  photo: avatar.avif
   info: M.Sc. student at Bosch
   duration: 
   email: b
@@ -89,7 +89,7 @@
   education1: 
   
 - name: Elias Hagelin
-  photo: avatar.png
+  photo: avatar.avif
   info: M.Sc. student at Bosch
   duration: 
   email: b
@@ -97,7 +97,7 @@
   education1:   
 
 - name: Isa Randsalu
-  photo: avatar.png
+  photo: avatar.avif
   info: M.Sc. student at Spiideo
   duration: 
   email: b
@@ -105,7 +105,7 @@
   education1: 
   
 - name: Eira Mildton
-  photo: avatar.png
+  photo: avatar.avif
   info: M.Sc. student at Spiideo
   duration: 
   email: b
@@ -113,7 +113,7 @@
   education1:   
   
 - name: Gillis Oldfeldt
-  photo: avatar.png
+  photo: avatar.avif
   info: M.Sc. student at Axis Communications
   duration: 
   email: b
@@ -121,7 +121,7 @@
   education1: 
   
 - name: Frida Johnsson
-  photo: avatar.png
+  photo: avatar.avif
   info: M.Sc. student at Axis Communications
   duration: 
   email: b
@@ -129,7 +129,7 @@
   education1: 
 
 - name: Jacob Forsell
-  photo: avatar.png
+  photo: avatar.avif
   info: M.Sc. student at Ericsson Research
   duration: 
   email: b
@@ -137,7 +137,7 @@
   education1: 
   
 - name: Yuyang Jin
-  photo: avatar.png
+  photo: avatar.avif
   info: M.Sc. student at Ericsson Research
   duration: 
   email: b
@@ -146,7 +146,7 @@
   
   
 - name: Fredrik Salomon-Sörensen
-  photo: avatar.png
+  photo: avatar.avif
   info: M.Sc. student at Karolinska Institute
   duration: 
   email: b
@@ -155,7 +155,7 @@
 
 
 - name: Dorsa Mohammad
-  photo: avatar.png
+  photo: avatar.avif
   info: M.Sc. student at Ericsson Research
   duration: 
   email: b
@@ -163,7 +163,7 @@
   education1: 
   
 - name: Arthur Nijdam
-  photo: avatar.png
+  photo: avatar.avif
   info: Ph.D. Student
   duration: 
   email: b

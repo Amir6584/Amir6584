@@ -1,5 +1,5 @@
 - name: Amir Aminifar
-  photo: Amir1_bw.jpg
+  photo: Amir1_bw.avif
   info: Associate Professor (Docent)
   email: amir.aminifar@eit.lth.se
   webpage: ../amir_aminifar/
@@ -8,7 +8,7 @@
 
 
 - name: Fatemeh Akbarian
-  photo: Fatemeh1_bw_2.png
+  photo: Fatemeh1_bw_2.avif
   info: Postdoctoral Fellow
   email: fatemeh.akbarian@eit.lth.se
   number_educ: 0
@@ -16,7 +16,7 @@
   education2: BSc Jilin University
 
 - name: Baichuan Huang
-  photo: Baichuan2_bw.png
+  photo: Baichuan2_bw.avif
   info: Doctoral Student
   email: baichuan.huang@eit.lth.se
   link: https://whubaichuan.github.io/
@@ -25,7 +25,7 @@
   education2: Master, University of Tokyo
 
 - name: Anahita Baninajjar
-  photo: Anahita1_bw_2.png
+  photo: Anahita1_bw_2.avif
   info: Doctoral Student
   email: benschop@physics.leidenuniv.nl
   number_educ: 0
@@ -33,7 +33,7 @@
   education2: MSc KIT
 
 - name: Xavante Erikson
-  photo: Xavante1_bw_4.png
+  photo: Xavante1_bw_4.avif
   info: Industrial Ph.D. student at Ericsson Research
   email: xavante.erikson@eit.lth.se
   number_educ: 0
@@ -41,7 +41,7 @@
   education2: MSc, Andhra University
 
 - name: Yingyi Zhang
-  photo: Yingyi1_bw.png
+  photo: Yingyi1_bw.avif
   info: Doctoral Student
   email: yingyi.zhang@eit.lth.se
   number_educ: 0
@@ -50,7 +50,7 @@
   education3: MSc TUM
 
 - name: Filippa Brandt
-  photo: Filippa1_bw.png
+  photo: Filippa1_bw.avif
   info: Industrial Ph.D. student at Ericsson Research
   email: filippa.brandt@eit.lth.se
   number_educ: 0
@@ -59,7 +59,7 @@
   education3: MSc National Institute of Technology - Tiruchirappalli
 
 - name: Ali Reza Jahangiri
-  photo: Ali1_bw.png
+  photo: Ali1_bw.avif
   info: Doctoral Student
   email: alireza.jahangiri@eit.lth.se
   number_educ: 0
@@ -67,7 +67,7 @@
   education2: MSc Technion
 
 - name: Guilherme Perticarari
-  photo: Guilherme2_bw.png
+  photo: Guilherme2_bw.avif
   info: Doctoral Student
   email: guilherme.junqueira_perticarari@eit.lth.se
   number_educ: 0
@@ -77,7 +77,7 @@
   education4:
 
 - name: Yingshuo Xi
-  photo: Yingshuo1_bw.png
+  photo: Yingshuo1_bw.avif
   info: Doctoral Student
   email: yingshuo.xi@eit.lth.se
   number_educ: 0

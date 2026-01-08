@@ -25,7 +25,7 @@ Amir Aminifar is an Associate Professor (Universitetslektor/Docent) in the Depar
 </div>
 
 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Amir1_bw.jpg"
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Amir1_bw.avif"
        width="100%"
        class="img-responsive"
        style="border-radius: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.25);"
