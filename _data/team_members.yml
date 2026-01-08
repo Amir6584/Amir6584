@@ -2,6 +2,7 @@
   photo: Amir1_bw.jpg
   info: Associate Professor (Docent)
   email: amir.aminifar@eit.lth.se
+  webpage: ../amir_aminifar/
   number_educ: 0
   education1: 
 
@@ -18,6 +19,7 @@
   photo: Baichuan2_bw.png
   info: Doctoral Student
   email: baichuan.huang@eit.lth.se
+  link: https://whubaichuan.github.io/
   number_educ: 0
   education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
   education2: Master, University of Tokyo

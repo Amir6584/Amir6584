@@ -36,7 +36,28 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+{% if member.link %}
+  <a href="{{ member.link }}" target="_blank" rel="noopener" style="float: left; cursor: pointer;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"
+       class="img-responsive"
+       width="25%"
+       style="float: left" />
+  </a>
+{% elsif member.webpage %}
+  <a href="{{ site.url }}{{ site.baseurl }}/team/{{ member.webpage }}" target="_blank" rel="noopener" style="float: left; cursor: pointer;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"
+       class="img-responsive"
+       width="25%"
+       style="float: left" />
+  </a>
+{% else %}
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"
+       class="img-responsive"
+       width="25%"
+       style="float: left" />
+{% endif %}
+
+
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
