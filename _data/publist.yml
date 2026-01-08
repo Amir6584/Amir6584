@@ -9,7 +9,7 @@
   description:  In this paper, we propose a memory-efficient forward-only algorithm called TinyFoA, to reduce dynamic memory overhead in the training process. Our TinyFoA optimizes the memory efficiency not only by layer-wise training but also by partially updating each layer, as well as by binarizing the weights and the activations. 
   link:
     url: https://ojs.aaai.org/index.php/AAAI/article/view/33910
-    display: AAAI (2025)
+    display: AAAI Conference on Artificial Intelligence (AAAI) (2025)
 
 - ENTRYTYPE: inproceedings
   ID: baninajjar2025formal
@@ -67,7 +67,7 @@
   description:  In this paper, we introduce a post-training framework to create Verification-Friendly Neural Networks (VNNs) that are easier for formal verification tools to analyze, allowing for provable robustness guarantees, while maintaining accuracy comparable to standard Deep Neural Networks (DNNs). 
   link:
     url: https://proceedings.mlr.press/v235/baninajjar24a.html
-    display: ICML (2024)
+    display:  International Conference on Machine Learning (ICML) (2024)
     
 - ENTRYTYPE: article
   ID: baghersalimi2024m2skd
