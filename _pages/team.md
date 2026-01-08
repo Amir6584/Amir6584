@@ -1,5 +1,5 @@
 ---
-title: "Intelligent Systems Laboratory - Team"
+title: "Intelligent Systems Laboratory - Members"
 layout: gridlay
 excerpt: "Intelligent Systems Laboratory &rarr; LU.SE"
 sitemap: false
