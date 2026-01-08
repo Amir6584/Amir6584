@@ -15,6 +15,7 @@ permalink: /research/
     margin: 0 auto; /* Centers the carousel horizontally */
     margin-bottom: 20px;  /* Adds a gap below the text */
     margin-top: 20px;  /* Adds a gap below the text */
+    box-shadow: 0 4px 12px rgba(0,0,0,0.25);
   }
 </style>
 
@@ -25,9 +26,6 @@ permalink: /research/
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Items -->

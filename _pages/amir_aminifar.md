@@ -18,30 +18,24 @@ permalink: /amir_aminifar/
   }
 </style>
 
-<div style="display: flex; align-items: flex-start; gap: 100px;">
+<div style="display: flex; align-items: flex-start; gap: 50px;">
 
 <div class="row justified-text">
 Amir Aminifar is an Associate Professor (Universitetslektor/Docent) in the Department of Electrical and Information Technology at Lund University, Sweden, and the Director of the Intelligent Systems Laboratory (INTELLIGENTiSTs). He received his Ph.D. degree from the Swedish National Computer Science Graduate School (CUGS), Linköping University, Sweden, in 2016. During 2016-2020, he held a Scientist position in the Institute of Electrical Engineering at the Swiss Federal Institute of Technology (EPFL), Switzerland. During 2014-2015, he visited the University of California, Los Angeles (UCLA), USA, and Sant'Anna School of Advanced Studies, Italy.
 </div>
 
 
-<style>
-/* Make team member images round */
-.col-sm-6 img {
-  border-radius: 50%;     /* Makes the image round */
-  width: 150px;           /* Set width for the images */
-  height: 150px;          /* Set height equal to width for circular effect */
-  object-fit: cover;      /* Ensures the image fills the circle */
-}
-</style>
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Amir1_bw.jpg"
        width="100%"
        class="img-responsive"
-       style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.25);"
+       style="border-radius: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.25);"
        alt="Team member photo">
-       
-</div>
 
+    <div class="row justified-text">
+
+    </div>
+
+</div>
 
 <div class="row justified-text">
 Amir Aminifar has been involved in several national/international projects, including the Medical Informatics Platform (MIP) of the European Human Brain Project (HBP), the ML-edge Swiss National Science Foundation (SNSF) project, the e-Glass Swiss Federal Institute of Technology (EPFL) project, the Wallenberg AI, Autonomous Systems and Software Program (WASP), Swedish Foundation for Strategic Research (SSF), ELLIIT Strategic Research Environment, and the Swedish Research Council (VR). He has a history of successful collaboration with industry and medical partners, including Ericsson Research, Sony, General Motors (GM), Texas Instruments (TI), SmartCardia, the Lausanne University Hospital in Switzerland, and the Aarhus University Hospital in Denmark. 

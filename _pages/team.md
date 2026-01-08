@@ -41,20 +41,20 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"
        class="img-responsive"
        width="25%"
-       style="float: left" />
+       style="border-radius: 100%; float: left" />
   </a>
 {% elsif member.webpage %}
   <a href="{{ site.url }}{{ site.baseurl }}/team/{{ member.webpage }}" target="_blank" rel="noopener" style="float: left; cursor: pointer;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"
        class="img-responsive"
        width="25%"
-       style="float: left" />
+       style="border-radius: 100%; float: left" />
   </a>
 {% else %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"
        class="img-responsive"
        width="25%"
-       style="float: left" />
+       style="border-radius: 100%; float: left" />
 {% endif %}
 
 
@@ -122,7 +122,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="border-radius: 100%; float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
   <ul style="overflow: hidden">

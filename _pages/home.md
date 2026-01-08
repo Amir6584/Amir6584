@@ -42,7 +42,7 @@ We welcome you to the Intelligent Systems Laboratory (INTELLIGENTiSTs) at the De
 </style>
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RFhVcD9jR9E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RFhVcD9jR9E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="box-shadow: 0 4px 12px rgba(0,0,0,0.25);"></iframe>
 </div>
 
 
