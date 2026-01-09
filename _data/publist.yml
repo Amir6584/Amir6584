@@ -610,6 +610,7 @@
   title: Editor-at-Large board
 - ENTRYTYPE: article
   ID: naseri832dynsus
+  year: '2022'
   author: Naseri-Rad, Mehran and Berndtsson, Ronny and Aminifar, Amir and McKnight,
     Ursula S and O'Connor, David and Persson, Kenneth M
   journal: Science of The Total Environment
@@ -619,6 +620,7 @@
   volume: '832'
 - ENTRYTYPE: article
   ID: radinterpretable
+  year: '2024'
   author: Rad, Mehran and Abtahi, Azra and Berndtsson, Ronny and McKnight, Ursula
     S and Aminifar, Amir
   journal: Environmental Pollution
@@ -626,29 +628,34 @@
     in Groundwater
 - ENTRYTYPE: article
   ID: huangbinary
+  year: '2025'
   author: Huang, Baichuan and Aminifar, Amir
   journal: IEEE Design & Test
   publisher: IEEE
   title: Binary Forward-Only Algorithms
 - ENTRYTYPE: inproceedings
   ID: akbarianmembership
+  year: '2025'
   author: Akbarian, Fatemeh and Aminifar, Amir
   booktitle: European Symposium on Artificial Neural Networks
   title: Membership Inference Attack in Random Forests
 - ENTRYTYPE: inproceedings
   ID: huangefficient
+  year: '2025'
   author: Huang, Baichuan and Aminifar, Amir
   booktitle: Annual Conference on Machine Learning and Systems (MLSys)
   title: Efficient On-Device Machine Learning with a Biologically-Plausible Forward-Only
     Algorithm
 - ENTRYTYPE: article
   ID: abtahiidentification
+  year: '2025'
   author: Abtahi, Azra and Ryvlin, Philippe and Aminifar, Amir
   journal: IEEE Access
   title: Identification of Relevant ECG Features for Epileptic Seizure Prediction
     Using Interpretable Machine Learning
 - ENTRYTYPE: inproceedings
   ID: palesettitowards
+  year: '2025'
   author: Palesetti, Pushpa Priyanka and Engström, Emelie and Söderberg, Emma and
     Jasim, Al-Hussein Hameed and Bexell, Andreas and Korkakakis, Nikolaos and Aminifar,
     Amir and Lagerstedt, Robert and Olsson, Pontus and Sigurdson, Per and others
@@ -658,31 +665,36 @@
   title: Towards Sustainable DevOps for Cyber Physical Systems
 - ENTRYTYPE: inproceedings
   ID: baninajjarrobustness
+  year: '2025'
   author: Baninajjar, Anahita and Aminifar, Amin and Hosseini, Kamran and Aminifar,
     Amir and Rezine, Ahmed
   booktitle: International Joint Conference on Neural Networks (IJCNN)
   title: Robustness and Privacy Interplay in Patient Membership Inference
 - ENTRYTYPE: article
   ID: nijdamipfl
+  year: '2025'
   author: Nijdam, Arthur A and Aminifar, Amir
   journal: IEEE Access
   publisher: IEEE
   title: 'IPFL: Interpretable Federated Learning for Personalized Healthcare'
 - ENTRYTYPE: inproceedings
   ID: gulin2025integrating
+  year: '2025'
   author: Gulin, Jens and Åström, Kalle and Aminifar, Amir
-  booktitle: '33rd European Signal Processing Conference (EUSIPCO 2025): Signal processing
-    in the land of art, culture and beauty'
+  booktitle: '33rd European Signal Processing Conference (EUSIPCO 2025)'
   pages: 226–230
   title: Integrating smooth motion assumptions with RANSAC-based sound source localization
 - ENTRYTYPE: article
   ID: huang2509beft
+  year: '2025'
   author: Huang, Baichuan and Balashankar, Ananth and Aminifar, Amir
   journal: arXiv preprint arXiv:2509.15974
   title: 'BEFT: Bias-Efficient Fine-Tuning of Language Models'
 - ENTRYTYPE: article
   ID: akbarianfederated
+  year: '2025'
   author: Akbarian, Fatemeh and Vlaeminck, Robbe and Verheijen, Joran and Aminifar,
     Amin and Aminifar, Amir
   title: Federated Learning for Obstacle Detection to Assist the Visually-Impaired
     Using Augmented Reality
+  booktitle: Digital Systems Design (DSD)
