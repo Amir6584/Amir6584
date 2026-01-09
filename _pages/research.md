@@ -8,6 +8,10 @@ permalink: /research/
 # Research
 <div style="height: 30px;"></div>
 
+<div>
+Here is an overview of our main research directions:
+</div>
+
 <style>
   #carousel {
     width: 80%; /* Adjust this percentage to control the width */
