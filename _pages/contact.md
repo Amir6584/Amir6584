@@ -78,8 +78,8 @@ permalink: /contact/
 
 
       <p>
-        <strong>Email Address (remove ".bottrap"):</strong><br>
-        amir.aminifar.bottrap@eit.lth.se
+        <strong>Email Address:</strong><br>
+        contact@intelligentists.org
       </p>
     </div>
 
