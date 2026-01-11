@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Home Page -->
+    <url>
+        <loc>https://amir6584.github.io/intelligent_systems_laboratory/</loc>
+        <lastmod>2026-01-11</lastmod>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://amir6584.github.io/intelligent_systems_laboratory/research</loc>
+        <lastmod>2026-01-11</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://amir6584.github.io/intelligent_systems_laboratory/publications</loc>
+        <lastmod>2026-01-11</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://amir6584.github.io/intelligent_systems_laboratory/amir_aminifar</loc>
+        <lastmod>2026-01-11</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    
+    <url>
+        <loc>https://amir6584.github.io/intelligent_systems_laboratory/team</loc>
+        <lastmod>2026-01-11</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://amir6584.github.io/intelligent_systems_laboratory/contact</loc>
+        <lastmod>2026-01-11</lastmod>
+        <priority>0.7</priority>
+    </url>
+</urlset>
+
