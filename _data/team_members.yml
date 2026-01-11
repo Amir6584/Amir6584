@@ -16,6 +16,7 @@
   education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
   education2: BSc Jilin University
 
+ 
 - name: Baichuan Huang
   photo: Baichuan2_bw.avif
   info: Doctoral Student
@@ -25,6 +26,7 @@
   education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
   education2: Master, University of Tokyo
 
+
 - name: Anahita Baninajjar
   photo: Anahita1_bw_2.avif
   info: Doctoral Student
@@ -33,6 +35,7 @@
   number_educ: 0
   education1: PhD, KIT, with [Wulf Wulfhekel](https://www.int.kit.edu/1941_701.php)
   education2: MSc KIT
+ 
 
 - name: Xavante Erikson
   photo: Xavante1_bw_4.avif
@@ -47,7 +50,7 @@
   photo: Yingyi1_bw.avif
   info: Doctoral Student
   email: yingyi.zhang@eit.lth.se
-  link: https://portal.research.lu.se/en/persons/yingyi-zhang
+  link: https://yingyi12.github.io
   number_educ: 0
   education1: Postdoc LMU Munich with [Wolfgang Schnick](https://www.cup.uni-muenchen.de/ac/schnick/prof-dr-w-schnick/)
   education2: PhD TUM and University of Marburg with [Florian Kraus](https://www.uni-marburg.de/de/fb15/arbeitsgruppen/anorganische_chemie/ag-kraus)
