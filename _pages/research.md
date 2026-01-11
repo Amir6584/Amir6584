@@ -9,7 +9,7 @@ permalink: /research/
 <div style="height: 30px;"></div>
 
 <div>
-Here is an overview of our main research directions:
+Here is an overview of our main research directions, with focus areas on efficient machine learning, trustworthy machine learning, privacy-preserving federated learning, and medical informatics and mobile-health:
 </div>
 
 <style>
