@@ -1,5 +1,5 @@
 - name: Amir Aminifar
-  photo: Amir1_bw.avif
+  photo: output_avif/Amir1.avif
   info: Associate Professor (Docent)
   email: amir.aminifar@eit.lth.se
   webpage: ../amir_aminifar/
@@ -8,7 +8,7 @@
 
 
 - name: Fatemeh Akbarian
-  photo: Fatemeh1_bw_2.avif
+  photo: output_avif/Fatemeh1.avif
   info: Postdoctoral Fellow
   email: fatemeh.akbarian@eit.lth.se
   link: https://portal.research.lu.se/en/persons/fatemeh-akbarian/
@@ -18,7 +18,7 @@
 
  
 - name: Baichuan Huang
-  photo: Baichuan2_bw.avif
+  photo: output_avif/Baichuan2.avif
   info: Doctoral Student
   email: baichuan.huang@eit.lth.se
   link: https://whubaichuan.github.io/
@@ -28,7 +28,7 @@
 
 
 - name: Anahita Baninajjar
-  photo: Anahita2_bw.avif
+  photo: output_avif/Anahita2.avif
   info: Doctoral Student
   email: anahita.baninajjar@eit.lth.se
   link: https://anahitabn94.github.io/
@@ -38,7 +38,7 @@
  
 
 - name: Xavante Erikson
-  photo: Xavante1_bw_4.avif
+  photo: output_avif/Xavante1.avif
   info: Industrial Ph.D. student at Ericsson Research
   email: xavante.erikson@eit.lth.se
   link: https://portal.research.lu.se/en/persons/xavante-erickson/
@@ -47,53 +47,53 @@
   education2: 
 
 - name: Yingyi Zhang
-  photo: Yingyi1_bw.avif
+  photo: output_avif/Yingyi1.avif
   info: Doctoral Student
   email: yingyi.zhang@eit.lth.se
   link: https://yingyi12.github.io
   number_educ: 0
-  education1: Postdoc LMU Munich with [Wolfgang Schnick](https://www.cup.uni-muenchen.de/ac/schnick/prof-dr-w-schnick/)
-  education2: PhD TUM and University of Marburg with [Florian Kraus](https://www.uni-marburg.de/de/fb15/arbeitsgruppen/anorganische_chemie/ag-kraus)
-  education3: MSc TUM
+  education1: 
+  education2: 
+  education3: 
 
 - name: Filippa Brandt
-  photo: Filippa1_bw.avif
+  photo: output_avif/Filippa1.avif
   info: Industrial Ph.D. student at Ericsson Research
   email: filippa.brandt@eit.lth.se
   link: https://portal.research.lu.se/en/persons/filippa-brandt
   number_educ: 0
-  education1: Postdoc Bar-Ilan with [Beena Kalisky](https://beenalab.biu.ac.il)
-  education2: PhD Homi Bhabha National Institute
-  education3: MSc National Institute of Technology - Tiruchirappalli
+  education1: 
+  education2: 
+  education3: 
 
 - name: Ali Reza Jahangiri
-  photo: Ali1_bw.avif
+  photo: output_avif/Ali1.avif
   info: Doctoral Student
   email: alireza.jahangiri@eit.lth.se
   link: https://portal.research.lu.se/sv/persons/ali-jahangiri/
   number_educ: 0
-  education1: PhD Technion with [Amit Kanigel](https://phsites.technion.ac.il/arpes/)
-  education2: MSc Technion
+  education1: 
+  education2: 
 
 - name: Guilherme Perticarari
-  photo: Guilherme2_bw.avif
+  photo: output_avif/Guilherme2.avif
   info: Doctoral Student
   email: guilherme.junqueira_perticarari@eit.lth.se
   link: https://portal.research.lu.se/en/persons/guilherme-junqueira-perticarari/
   number_educ: 0
-  education1: Master Applied Physics, TU Delft
-  education2: Casimir/Nanofront PhD fellowship
+  education1: 
+  education2: 
   education3:
   education4:
 
 - name: Yingshuo Xi
-  photo: Yingshuo1_bw.avif
+  photo: output_avif/Yingshuo1.avif
   info: Doctoral Student
   email: yingshuo.xi@eit.lth.se
   link: https://yingshuoxi.com/sv/homepage-se/
   number_educ: 0
   education1: Master Leiden University
-  education2: BSc, University of the Basque Country
+  education2: 
   education3:
   education4:
 
