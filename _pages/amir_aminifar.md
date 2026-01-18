@@ -24,7 +24,7 @@ permalink: /amir_aminifar/
 Amir Aminifar is an Associate Professor (Universitetslektor/Docent) in the Department of Electrical and Information Technology at Lund University, Sweden, and the Director of the Intelligent Systems Laboratory (INTELLIGENTiSTs). He is a Wallenberg AI, Autonomous Systems and Software Program (WASP) Fellow and a Senior member of the IEEE. He received his Ph.D. degree from the Swedish National Computer Science Graduate School (CUGS), Linköping University, Sweden, in 2016. During 2016-2020, he held a Scientist position in the Institute of Electrical Engineering at the Swiss Federal Institute of Technology (EPFL), Switzerland. During 2014-2015, he visited the University of California, Los Angeles (UCLA), USA, and Sant'Anna School of Advanced Studies, Italy.
 </div>
 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Amir1_bw.avif"
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/output_avif/Amir1.avif"
        width="100%"
        class="img-responsive"
        style="border-radius: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.25);"
