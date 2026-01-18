@@ -13,8 +13,8 @@
   email: fatemeh.akbarian@eit.lth.se
   link: https://portal.research.lu.se/en/persons/fatemeh-akbarian/
   number_educ: 0
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
+  education1: 
+  education2: 
 
  
 - name: Baichuan Huang
@@ -23,18 +23,18 @@
   email: baichuan.huang@eit.lth.se
   link: https://whubaichuan.github.io/
   number_educ: 0
-  education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
-  education2: Master, University of Tokyo
+  education1: 
+  education2: 
 
 
 - name: Anahita Baninajjar
   photo: Anahita1_bw_2.avif
   info: Doctoral Student
-  email: benschop@physics.leidenuniv.nl
-  link: https://portal.research.lu.se/en/persons/anahita-baninajjar
+  email: anahita.baninajjar@eit.lth.se
+  link: https://anahitabn94.github.io/
   number_educ: 0
-  education1: PhD, KIT, with [Wulf Wulfhekel](https://www.int.kit.edu/1941_701.php)
-  education2: MSc KIT
+  education1: 
+  education2: 
  
 
 - name: Xavante Erikson
@@ -43,8 +43,8 @@
   email: xavante.erikson@eit.lth.se
   link: https://portal.research.lu.se/en/persons/xavante-erickson/
   number_educ: 0
-  education1: PhD, JNCASR, with A. Sundaresan
-  education2: MSc, Andhra University
+  education1: 
+  education2: 
 
 - name: Yingyi Zhang
   photo: Yingyi1_bw.avif
