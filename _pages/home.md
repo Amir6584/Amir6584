@@ -1,6 +1,6 @@
 ---
 title: "Intelligent Systems Laboratory - Home"
-layout: homelay
+layout: textlay
 excerpt: "Intelligent Systems Laboratory &rarr; LU.SE"
 sitemap: false
 permalink: /
