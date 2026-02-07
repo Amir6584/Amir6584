@@ -7,7 +7,7 @@ permalink: /
 ---
 # Welcome to the Intelligent Systems Laboratory
 
-<div style="height: 50px;"></div>
+<div style="height: 30px;"></div>
 
 <html lang="en">
 <body>
