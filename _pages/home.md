@@ -5,6 +5,7 @@ excerpt: "Intelligent Systems Laboratory &rarr; LU.SE"
 sitemap: false
 permalink: /
 ---
+# Welcome to the Intelligent Systems Laboratory
 
 <div style="height: 50px;"></div>
 
