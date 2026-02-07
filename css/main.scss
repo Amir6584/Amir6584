@@ -47,6 +47,18 @@ firstp {
   max-width: 1000px; /* or 950px */
 }
 
+
+@media (max-width: 767px) {
+  .navbar-collapse {
+    background-color: #f8f8f8;
+  }
+
+  .navbar-nav > li > a {
+    color: #333;
+  }
+}
+
+
 /* Home, News */
 #newsid p {
 	text-align: left;
