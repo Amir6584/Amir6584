@@ -10,7 +10,7 @@ title: Intelligent Systems Laboratory
 email: amir.aminifar@eit.lth.se
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Intelligent Systems Laboratory
-baseurl: "/amir6584"
+baseurl: ""
 url: ""
 
 include:
