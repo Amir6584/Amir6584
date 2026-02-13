@@ -31,17 +31,20 @@ Amir Aminifar is an Associate Professor (Universitetslektor/Docent) in the Depar
        alt="Team member photo">
   -->
     <video 
-    width="100%"
-    class="img-responsive"
-    style="border-radius: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.25); object-fit: cover;"
-    autoplay
-    loop
-    muted
-    playsinline>
+        width="100%"
+        class="img-responsive"
+        style="
+            margin-top: 20px;   /* adjust this value */
+            border-radius: 50%;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+            object-fit: cover;"
+        autoplay
+        loop
+        muted
+        playsinline>
     
-    <source src="{{ site.url }}{{ site.baseurl }}/images/teampic/Original/Amir.mp4" type="video/mp4">
-    
-    Your browser does not support the video tag.
+        <source src="{{ site.url }}{{ site.baseurl }}/images/teampic/Original/Amir.mp4" type="video/mp4">
+        Your browser does not support the video tag.
     </video>
 
     <div class="row justified-text">
