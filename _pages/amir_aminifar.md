@@ -30,11 +30,11 @@ Amir Aminifar is an Associate Professor (Universitetslektor/Docent) in the Depar
        style="border-radius: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.25);"
        alt="Team member photo">
   -->
+ <div class="col-md-4 text-center">
     <video 
-        width="100%"
-        class="img-responsive"
+        width="80%"
         style="
-            margin-top: 20px;   /* adjust this value */
+            margin-top: 20px;
             border-radius: 50%;
             box-shadow: 0 4px 12px rgba(0,0,0,0.25);
             object-fit: cover;"
@@ -42,10 +42,10 @@ Amir Aminifar is an Associate Professor (Universitetslektor/Docent) in the Depar
         loop
         muted
         playsinline>
-    
+        
         <source src="{{ site.url }}{{ site.baseurl }}/images/teampic/Original/Amir.mp4" type="video/mp4">
-        Your browser does not support the video tag.
     </video>
+  </div>
 
     <div class="row justified-text">
     
