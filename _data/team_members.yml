@@ -27,14 +27,6 @@
   education2: 
 
 
-- name: Anahita Baninajjar
-  photo: output_avif/Anahita2.avif
-  info: Doctoral Student
-  email: anahita.baninajjar@eit.lth.se
-  link: https://anahitabn94.github.io/
-  number_educ: 0
-  education1: 
-  education2: 
  
 
 - name: Xavante Erikson
@@ -75,16 +67,6 @@
   education1: 
   education2: 
 
-- name: Guilherme Perticarari
-  photo: output_avif/Guilherme2.avif
-  info: Doctoral Student
-  email: guilherme.junqueira_perticarari@eit.lth.se
-  link: https://portal.research.lu.se/en/persons/guilherme-junqueira-perticarari/
-  number_educ: 0
-  education1: 
-  education2: 
-  education3:
-  education4:
 
 - name: Yingshuo Xi
   photo: output_avif/Yingshuo1.avif
