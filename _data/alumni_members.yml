@@ -8,6 +8,7 @@
 
 - name: Anahita Baninajjar
   photo: output_avif/Anahita2.avif
+  duration: 
   info: Doctoral Student (moved to Aalborg University as a Postdoctoral Fellow)
   email: b
   number_educ: 0
@@ -16,6 +17,7 @@
 
   - name: Guilherme Perticarari
   photo: output_avif/Guilherme2.avif
+  duration: 
   info: Doctoral Student
   email: b
   number_educ: 0
