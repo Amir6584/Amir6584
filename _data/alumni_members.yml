@@ -83,22 +83,37 @@
   number_educ: 0
   education1: 
   
-
-- name: Neha Mishra
+- name: Arvid Müller
   photo: avatar.avif
-  info: M.Sc. student at Axis Communications
+  info: M.Sc. student at Volvo Cars
   duration: 
   email: b
   number_educ: 0
   education1: 
-
-- name: Emil Friberg
+  
+- name: Elias Flynn Rosenberg
   photo: avatar.avif
-  info: M.Sc. student at Axis Communications
+  info: M.Sc. student at Volvo Cars
   duration: 
   email: b
   number_educ: 0
-  education1: 
+  education1:   
+ 
+# - name: Neha Mishra
+#   photo: avatar.avif
+#   info: M.Sc. student at Axis Communications
+#   duration: 
+#   email: b
+#   number_educ: 0
+#   education1: 
+
+# - name: Emil Friberg
+#   photo: avatar.avif
+#   info: M.Sc. student at Axis Communications
+#   duration: 
+#   email: b
+#   number_educ: 0
+#   education1: 
   
 - name: Viktor Ols
   photo: avatar.avif
@@ -163,7 +178,14 @@
   email: b
   number_educ: 0
   education1: 
-  
+
+- name: Mingtong Du
+  photo: avatar.avif
+  info: M.Sc. student at Medical Faculty of Lund University
+  duration: 
+  email: b
+  number_educ: 0
+  education1: 
   
 - name: Fredrik Salomon-Sörensen
   photo: avatar.avif
