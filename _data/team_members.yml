@@ -27,8 +27,6 @@
   education2: 
 
 
- 
-
 - name: Xavante Erikson
   photo: output_avif/Xavante1.avif
   info: Industrial Ph.D. student at Ericsson Research
@@ -38,21 +36,23 @@
   education1: 
   education2: 
 
-- name: Yingyi Zhang
-  photo: output_avif/Yingyi1.avif
-  info: Doctoral Student
-  email: yingyi.zhang@eit.lth.se
-  link: https://yingyi12.github.io
-  number_educ: 0
-  education1: 
-  education2: 
-  education3: 
-
 - name: Filippa Brandt
   photo: output_avif/Filippa1.avif
   info: Industrial Ph.D. student at Ericsson Research
   email: filippa.brandt@eit.lth.se
   link: https://portal.research.lu.se/en/persons/filippa-brandt
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+
+  
+
+- name: Yingyi Zhang
+  photo: output_avif/Yingyi1.avif
+  info: Doctoral Student
+  email: yingyi.zhang@eit.lth.se
+  link: https://yingyi12.github.io
   number_educ: 0
   education1: 
   education2: 
