@@ -21,7 +21,7 @@ permalink: /amir_aminifar/
 <div style="display: flex; align-items: flex-start; gap: 50px;">
 
 <div class="row justified-text">
-Amir Aminifar is an Associate Professor (Universitetslektor/Docent) in the Department of Electrical and Information Technology at Lund University, Sweden, and the Director of the Intelligent Systems Laboratory (INTELLIGENTiSTs). He is a Wallenberg AI, Autonomous Systems and Software Program (WASP) Fellow and a Senior Member of the IEEE. He received his Ph.D. degree from the Swedish National Computer Science Graduate School (CUGS), Linköping University, Sweden, in 2016. Before joining Lund University, he held a Scientist position in the Institute of Electrical Engineering at the Swiss Federal Institute of Technology (EPFL), Switzerland. During 2014-2015, he visited the University of California, Los Angeles (UCLA), USA, and the Sant'Anna School of Advanced Studies, Italy.
+Amir Aminifar is an Associate Professor (Universitetslektor/Docent) in the Department of Electrical and Information Technology at Lund University, Sweden, and the Director of the Intelligent Systems Laboratory (INTELLIGENTiSTs). He is a Wallenberg AI, Autonomous Systems and Software Program (WASP) Fellow and a Senior Member of the IEEE. He received his Ph.D. degree from the Swedish National Computer Science Graduate School (CUGS), Linköping University, Sweden, in 2016. Before joining Lund University, he held a Scientist position at the Institute of Electrical Engineering at the Swiss Federal Institute of Technology (EPFL), Switzerland. During 2014-2015, he visited the University of California, Los Angeles (UCLA), USA, and the Sant'Anna School of Advanced Studies, Italy.
 </div>
 
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Original/Amir.gif"
@@ -61,7 +61,7 @@ Amir Aminifar has been involved in several national/international projects, incl
 </div>
 
 <div class="row justified-text">
-Amir Aminifar has served as an Associate Editor of several international journals, including the ACM Computing Surveys (IF=23.8) and the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. He has been involved in the evaluation of grant proposals for the European Innovation Council (EIC), Swiss National Science Foundation (SNSF), among others.
+Amir Aminifar has served as an Associate Editor of several international journals, including the ACM Computing Surveys and the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. He has been involved in the evaluation of grant proposals for the European Innovation Council (EIC), the Swiss National Science Foundation (SNSF), among others.
 Finally, he has been teaching the M.Sc. course in Artificial Intelligence, Machine Learning for Internet of Things (IoT), and the Ph.D. course in Machine Learning at Lund University. He has also been involved in teaching the Ph.D. course "Design and Optimization of Internet of Things (IoT) Systems" at the Swiss Federal Institute of Technology (EPFL) and a MOOC course on IoT Systems and Industrial Applications.
 </div>
 
