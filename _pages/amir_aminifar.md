@@ -61,8 +61,8 @@ Amir Aminifar has been involved in several national/international projects, incl
 </div>
 
 <div class="row justified-text">
-Amir Aminifar has served as an Associate Editor of several international journals, including the ACM Computing Surveys (IF=23.8) and IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. He has been involved in the evaluation of grant proposals for the European Innovation Council (EIC), Swiss National Science Foundation (SNSF), among others.
-Finally, he has been teaching the M.Sc. course in Artificial Intelligence, Machine Learning for Internet of Things (IoT), and the Ph.D. course in Machine Learning at Lund University. He has also been involved in teaching the Ph.D. course "Design and Optimization of Internet of Things (IoT) Systems" at the Swiss Federal Institute of Technology (EPFL) and the MOOC course on IoT Systems and Industrial Applications.
+Amir Aminifar has served as an Associate Editor of several international journals, including the ACM Computing Surveys (IF=23.8) and the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. He has been involved in the evaluation of grant proposals for the European Innovation Council (EIC), Swiss National Science Foundation (SNSF), among others.
+Finally, he has been teaching the M.Sc. course in Artificial Intelligence, Machine Learning for Internet of Things (IoT), and the Ph.D. course in Machine Learning at Lund University. He has also been involved in teaching the Ph.D. course "Design and Optimization of Internet of Things (IoT) Systems" at the Swiss Federal Institute of Technology (EPFL) and a MOOC course on IoT Systems and Industrial Applications.
 </div>
 
 
