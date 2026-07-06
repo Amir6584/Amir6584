@@ -6,7 +6,7 @@
   year: '2026'
   highlight: 1
   image: BEFT.png
-  description: In this paper, we propose an efficient PEFT scheme, in collaboration with Google DeepMind. BEFT fine-tunes only the bias terms in the value projection, making it an efficient PEFT (parameter-efficient fine-tuning) approach, and can also be combined with other PEFT schemes, e.g., LoRA. BEFT is also available on <a href="https://huggingface.co/docs/peft/main/en/package_reference/beft">Hugging Face</a>  &#x1F917;.
+  description: In this paper, we propose an efficient PEFT scheme, in collaboration with Google DeepMind. BEFT fine-tunes only the bias terms in the value projection, making it an efficient PEFT (parameter-efficient fine-tuning) approach, and can also be combined with other PEFT schemes, e.g., LoRA. BEFT is also available on <a href="https://huggingface.co/docs/peft/main/en/package_reference/beft">Hugging Face</a>.
   link:
     url: https://arxiv.org/abs/2509.15974
     display: Association for Computational Linguistics (ACL) (2026)
