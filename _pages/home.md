@@ -47,7 +47,7 @@ We welcome you to the Intelligent Systems Laboratory (INTELLIGENTiSTs) at the De
 </div>
 
 
-<div class="row justified-text" style="margin-top: 30px;">
+<div class="row justified-text" style="margin-top: 50px;">
   Our research activities have been supported by the following funding sources, whose generous support we gratefully acknowledge:
 </div>
 
