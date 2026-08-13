@@ -57,7 +57,7 @@ Our research activities have been supported by the following funding sources, wh
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/WASP.svg" style="width: 130px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/VR.svg" style="width: 140px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SSF.svg" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EU.svg" style="width: 140px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EU.png" style="width: 140px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Google.svg" style="width: 140px">
 </figure>
 </html>
