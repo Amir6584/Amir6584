@@ -49,8 +49,9 @@ We welcome you to the Intelligent Systems Laboratory (INTELLIGENTiSTs) at the De
 
 </body>
 
+Our research activities are/have been supported by the following funding sources, which we are thankful to:
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/111.svg" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/wasp_logotype_grey.svg" style="width: 130px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/111.svg" style="width: 140px">
 </figure>
 </html>
