@@ -62,6 +62,7 @@ We welcome you to the Intelligent Systems Laboratory (INTELLIGENTiSTs) at the De
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/WASP.svg" style="width: 250px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/VR.svg" style="width: 140px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SSF.svg" style="width: 140px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ELLIIT.jpg" style="width: 140px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EU.png" style="width: 160px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Google.svg" style="width: 140px">
 
