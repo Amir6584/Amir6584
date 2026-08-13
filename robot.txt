@@ -1,1 +1,4 @@
 
+# Allow normal search engines
+User-agent: *
+Allow: /
