@@ -6,10 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Intelligent Systems Laboratory
+# title: Intelligent Systems Laboratory
+# email: amir.aminifar@eit.lth.se
+# description: > # this means to ignore newlines until "baseurl:"
+#   Website of the Intelligent Systems Laboratory
+# baseurl: ""
+# url: ""
+
+title: Intelligent Systems Laboratory | Lund University
 email: amir.aminifar@eit.lth.se
-description: > # this means to ignore newlines until "baseurl:"
-  Website of the Intelligent Systems Laboratory
+description: Intelligent Systems Laboratory at Lund University. Research in machine learning, edge AI, federated learning, trustworthy AI, and medical informatics.
+url: "https://intelligentists.org"
 baseurl: ""
 url: ""
 
