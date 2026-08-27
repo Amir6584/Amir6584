@@ -18,7 +18,6 @@ email: amir.aminifar@eit.lth.se
 description: Intelligent Systems Laboratory at Lund University. Research in machine learning, edge AI, federated learning, trustworthy AI, and medical informatics.
 url: "https://intelligentists.org"
 baseurl: ""
-url: ""
 
 include:
   - .htaccess
