@@ -9,7 +9,7 @@
   description: In this paper, we propose an efficient forward-only adaptation scheme, in collaboration with Google DeepMind.  Large language model (LLM) inference serving is undergoing rapid growth and large-scale deployment, motivating us to rethink how the inference process itself can be leveraged to enable efficient task-specific LLM adaptation. 
   link:
     url: https://neurips.cc/virtual/2026/loc/atlanta/poster/148809
-    display: Conference on Neural Information Processing Systems (NeurIPS) (2026)
+    display: Neural Information Processing Systems (NeurIPS) (2026)
     
 
 
