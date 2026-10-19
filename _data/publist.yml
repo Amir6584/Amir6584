@@ -1,6 +1,21 @@
 - ENTRYTYPE: article
   ID: huang2509beft
   author: Huang, Baichuan and Balashankar, Ananth and Aminifar, Amir
+  booktitle: Conference on Neural Information Processing Systems (NeurIPS)
+  title: 'Efficient LLM Adaptation with Forward-Only Passes'
+  year: '2026'
+  highlight: 1
+  image: NeurIPS.png
+  description: In this paper, we propose an efficient forward-only adaptation scheme, in collaboration with Google DeepMind.  Large language model (LLM) inference serving is undergoing rapid growth and large-scale deployment, motivating us to rethink how the inference process itself can be leveraged to enable efficient task-specific LLM adaptation. 
+  link:
+    url: https://neurips.cc/virtual/2026/loc/atlanta/poster/148809
+    display: Conference on Neural Information Processing Systems (NeurIPS) (2026)
+    
+
+
+- ENTRYTYPE: article
+  ID: huang2509beft
+  author: Huang, Baichuan and Balashankar, Ananth and Aminifar, Amir
   booktitle: Association for Computational Linguistics (ACL 2026)
   title: 'BEFT: Bias-Efficient Fine-Tuning of Language Models in Low-Data Regimes'
   year: '2026'
