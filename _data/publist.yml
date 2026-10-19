@@ -16,7 +16,7 @@
 - ENTRYTYPE: article
   ID: huang2509beft
   author: Huang, Baichuan and Balashankar, Ananth and Aminifar, Amir
-  booktitle: Association for Computational Linguistics (ACL 2026)
+  booktitle: Association for Computational Linguistics (ACL)
   title: 'BEFT: Bias-Efficient Fine-Tuning of Language Models in Low-Data Regimes'
   year: '2026'
   highlight: 1
